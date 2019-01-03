@@ -58,6 +58,8 @@ public class Main {
 
 
 
+
+
     public static void main(String[] args) {
 
         /*Connection conn = DriverManager.getConnection(jdbc:sqlite:filename);
@@ -68,5 +70,10 @@ public class Main {
 
         System.out.println("Gradovi su:\n" + ispisiGradove());
         glavniGrad();
+
+
+
+
+
     }
 }
